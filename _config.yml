@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.42131218119820546
+  lightness: 0.10961641903515429
+  rhythmicContrast: 0.5629201887949491
+  saturation: 0.13182389043583742
+cta: {}
+layout_spectrum: 0.3557799986207423
+name: sidemenfilm
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.1720663530899631
