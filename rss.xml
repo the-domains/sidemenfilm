@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sidemen: Long Road to Glory]]></title>
         <description><![CDATA[Sidemen: Long Road to Glory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sidemenfilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 13:40:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 13:40:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sidemenfilm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>12345</p>]]></description>
-            <link>undefined8fdf4801-c0d3-4c45-a199-79434917a090/index.html</link>
+            <link>https://thegrid.ai/sidemenfilm/8fdf4801-c0d3-4c45-a199-79434917a090/index.html</link>
             <guid isPermaLink="false">8fdf4801-c0d3-4c45-a199-79434917a090</guid>
-            <pubDate>Sat, 09 Apr 2016 13:39:55 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 13:40:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
