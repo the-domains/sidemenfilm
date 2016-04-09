@@ -1,4 +1,20 @@
-analytics: {}
+name: sidemenfilm
+favicon: null
+layout_spectrum: 0.3557799986207423
+typography_spectrum: 0.1720663530899631
+title: 'Sidemen: Long Road to Glory'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0C0C0'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.42131218119820546
   lightness: 0.10961641903515429
-  rhythmicContrast: 0.5629201887949491
   saturation: 0.13182389043583742
-cta: {}
-layout_spectrum: 0.3557799986207423
-name: sidemenfilm
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.1720663530899631
+  rhythmicContrast: 0.5629201887949491
+purpose:
+  - name: null
+    item: null
+    url: null
